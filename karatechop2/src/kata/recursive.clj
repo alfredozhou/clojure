@@ -1,6 +1,7 @@
 (ns kata.recursive
   (:use clojure.contrib.math))
 
+
 (defn middle-index [array]
   (floor (/ (count array) 2))
   )
