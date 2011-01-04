@@ -1,4 +1,4 @@
-(ns kata.main
+(ns kata.recursive
   (:use clojure.contrib.math))
 
 (defn middle-index [array]

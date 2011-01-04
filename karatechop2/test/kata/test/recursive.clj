@@ -1,5 +1,5 @@
-(ns kata.test.main
-  (:use [kata.main])
+(ns kata.test.recursive
+  (:use [kata.recursive])
   (:use [clojure.test]))
 
 
