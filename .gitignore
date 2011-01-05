@@ -1,3 +1,5 @@
-codetest/out/*
+codetest2/out/*
+codetest2/.idea/*
+codetest2/*.iml
 karatechop2/.idea/*
 karatechop2/*.iml
