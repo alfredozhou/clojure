@@ -21,4 +21,11 @@
   (is (= (calculate-year 2004) 5))
   )
 
+(deftest can-calculate-day-of-week
+  (is (= "Friday" (calculate-day-of-week "1/7/2011")))
+  )
+
+(deftest turn-to-week-days
+  (is (= "Tuesday" (to-week-day 2)))
+  )
 (run-tests)
